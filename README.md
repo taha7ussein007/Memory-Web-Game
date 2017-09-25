@@ -9,8 +9,8 @@ The main functionality of this website not in design or Asp code but in
 
 #Screen Shots
 
-![alt text](https://github.com/taha7ussein007/Memory-Web-Game/blob/master/1.PNG)
-![alt text](https://github.com/taha7ussein007/Memory-Web-Game/blob/master/2.PNG)
-![alt text](https://github.com/taha7ussein007/Memory-Web-Game/blob/master/3.PNG)
-![alt text](https://github.com/taha7ussein007/Memory-Web-Game/blob/master/4.PNG)
-![alt text](https://github.com/taha7ussein007/Memory-Web-Game/blob/master/5.PNG)
+![alt text](https://github.com/taha7ussein007/Memory-Web-Game/blob/master/scrShots/1.PNG)
+![alt text](https://github.com/taha7ussein007/Memory-Web-Game/blob/master/scrShots/2.PNG)
+![alt text](https://github.com/taha7ussein007/Memory-Web-Game/blob/master/scrShots/3.PNG)
+![alt text](https://github.com/taha7ussein007/Memory-Web-Game/blob/master/scrShots/4.PNG)
+![alt text](https://github.com/taha7ussein007/Memory-Web-Game/blob/master/scrShots/5.PNG)
