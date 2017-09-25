@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memory Web Game", "Memory Web Game\Memory Web Game.csproj", "{CDEAE91D-F641-44D9-B25C-105F6BF8A519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryWebGameTestUnit", "MemoryWebGameTestUnit\MemoryWebGameTestUnit.csproj", "{A13B7355-1163-48D5-8495-89BF97500B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDEAE91D-F641-44D9-B25C-105F6BF8A519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEAE91D-F641-44D9-B25C-105F6BF8A519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEAE91D-F641-44D9-B25C-105F6BF8A519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEAE91D-F641-44D9-B25C-105F6BF8A519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A13B7355-1163-48D5-8495-89BF97500B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13B7355-1163-48D5-8495-89BF97500B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13B7355-1163-48D5-8495-89BF97500B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13B7355-1163-48D5-8495-89BF97500B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
